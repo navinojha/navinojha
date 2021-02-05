@@ -1,4 +1,4 @@
-### Hi there, I'm Navin - aka [navinojha][website] 👋
+### Hi there, I'm Navin - aka [navinojha] 👋
 
 [![Website](https://img.shields.io/website?label=navinOjha.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://navinojha.github.io/Navin-Portfolio/NavinOjha.html)
 [![Twitter Follow](https://img.shields.io/twitter/follow/navinojha?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Navinojha10)
