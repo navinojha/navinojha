@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Navin Ojha
 
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Hi, I'm Navin Ojha
+
 ### Backend Engineer • Java • Spring Boot • Distributed Systems • Kafka
 
 > Building scalable backend systems, real-time applications, and reliable distributed services.
